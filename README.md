@@ -5,10 +5,10 @@ Practicamos un poquito para prepararnos para el Primer CP
 Primero debes forkear este repo, haciendo click en el botón fork de arriba a la derecha.
 
 2. CLONAR
-Una vez que tengas una copia de este repo en tu cuenta de github, cloná el repo dentro de una nueva carpeta
+Una vez que tengas una copia de este repo en tu cuenta de github, cloná el repo dentro de una nueva carpeta. Recuerda usar git clone url
 
 4. RESOLVER 
 5. SUBIRLO A TU REPOSITORIO SIGUIENDO ESTOS PASOS
-git add .
-git commit -m 'Practica Realizada :)'
-git push origin main
+- git add .
+- git commit -m 'Practica Realizada :)'
+- git push origin main
